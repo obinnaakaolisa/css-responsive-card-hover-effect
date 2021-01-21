@@ -3,4 +3,4 @@
 
 > Screenshot:
 
-<img src="assets/images/Product Card With Hover Effect - Default State.png">
+<img src="../assets/images/responsive-product-card-with-hover-effect-default-state.png">
